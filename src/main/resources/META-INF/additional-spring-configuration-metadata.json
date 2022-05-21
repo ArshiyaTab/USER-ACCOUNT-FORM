@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "spring.jpa.mail.host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.mail.host'"
+  },
+  {
+    "name": "spring.jpa.mail.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.mail.port'"
+  },
+  {
+    "name": "spring.jpa.mail.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.mail.username'"
+  },
+  {
+    "name": "spring.jpa.mail.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.mail.password'"
+  },
+  {
+    "name": "spring.jpa.mail.mail",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.mail.mail'"
+  },
+  {
+    "name": "spring.jpa.smtp",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.smtp'"
+  },
+  {
+    "name": "spring.jpa.startls",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.startls'"
+  },
+  {
+    "name": "spring.jpa.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.enable'"
+  },
+  {
+    "name": "spring.jpa.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.auth'"
+  },
+  {
+    "name": "spring.jpa.mail.Properties",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.mail.Properties'"
+  },
+  {
+    "name": "spring.jpa.jpa",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.jpa'"
+  }
+]}
